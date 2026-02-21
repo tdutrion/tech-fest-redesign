@@ -4,12 +4,12 @@
     "description": "Tech F'Est Nancy - Conférence web développement à Nancy",
     "icons": [
         {
-            "src": "/icon-192.png",
+            "src": "./icon-192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "/icon-512.png",
+            "src": "./icon-512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
@@ -17,5 +17,5 @@
     "theme_color": "#DC371D",
     "background_color": "#FFFFFF",
     "display": "standalone",
-    "start_url": "/"
+    "start_url": "./"
 }
